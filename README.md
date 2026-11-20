@@ -37,5 +37,11 @@ Steps undertaken for the Networkwalks pdf file password cracking tool
 * Then pasted the copied hash into the pdf hash text area
 * Then clicked on start cracking
   ![Password cracked](W3-PM2-Networkwalks-pdf-Password-Cracker.png)
-  
+
+  PDF Contents
+  ![pdf 1](W3-PM1-PDF1-CRACKED.png)
+  ![pdf 2](W3-PM1-PDF2-CRACKED.png)
+  ![pdf 3](W3-PM1-PDF2-CRACKED.png)
+  Module Result
+  ![pdf 1 pm2](W3-PM2-Cracked-pdf)
 
