@@ -12,4 +12,10 @@ Primary learning objectives:
 * Defensive password recommendations
 
   My Steps;
-  I downloaded the passworded pdf files from the Week 
+  * I downloaded the passworded pdf files from the google drive materials
+  https://drive.google.com/drive/folders/1BipNY5NSQpPB3KSJwdJiu6X0VA1FVbcM
+  * I downloaded johnny the ripper JRT GUI and john CLI from the google drive material
+  * I installed johnny on my windows system
+  * After successful installation, I linked john the ripper CLI, by clicking on settings and the browse
+  * 
+
