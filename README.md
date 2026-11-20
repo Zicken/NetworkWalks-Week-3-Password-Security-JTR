@@ -24,5 +24,5 @@ Primary learning objectives:
     ![Pdf hash](W3-PM1-PDF-PASSWORD-HASH.png)
   * I copied the generated hash and saved it to a text file then
   * I clicked on Open password file in JTR to add the saved password hash text file
-    ![Open password hash}(open_password_hash.png)
+    ![Open password hash](open_password_hash.png)
 
