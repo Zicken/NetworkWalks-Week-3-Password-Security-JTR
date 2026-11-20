@@ -17,5 +17,9 @@ Primary learning objectives:
   * I downloaded johnny the ripper JRT GUI and john CLI from the google drive material
   * I installed johnny on my windows system
   * After successful installation, I linked john the ripper CLI, by clicking on settings and the browse
-      ![Link johnny with john](johnny_link.png)
+  ![Link johnny with john](johnny_link.png)
+  * I now uploaded the password pdf file to
+    https://www.onlinehashcrack.com/tools-pdf-hash-extractor.php#extract
+    to generate the password hash
+    ![Pdf hash](W3-PM1-PDF-PASSWORD-HASH.png)
 
