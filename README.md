@@ -43,5 +43,5 @@ Steps undertaken for the Networkwalks pdf file password cracking tool
   ![pdf 2](W3-PM1-PDF2-CRACKED.png)
   ![pdf 3](W3-PM1-PDF2-CRACKED.png)
   Module Result
-  ![pdf 1 pm2](W3-PM2-Cracked-pdf)
+  ![pdf 1 pm2](W3-PM2-Cracked-pdf.png)
 
