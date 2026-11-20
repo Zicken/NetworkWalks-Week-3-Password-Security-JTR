@@ -22,4 +22,6 @@ Primary learning objectives:
     https://www.onlinehashcrack.com/tools-pdf-hash-extractor.php#extract
     to generate the password hash
     ![Pdf hash](W3-PM1-PDF-PASSWORD-HASH.png)
+  * I copied the generated hash and saved it to a text file then
+  * I clicked on Open password file in JTR to add the saved password hash text file
 
