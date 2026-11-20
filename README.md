@@ -17,5 +17,5 @@ Primary learning objectives:
   * I downloaded johnny the ripper JRT GUI and john CLI from the google drive material
   * I installed johnny on my windows system
   * After successful installation, I linked john the ripper CLI, by clicking on settings and the browse
-  ![Link johnny with john(Images/johnny_link.png)]
+  ![Link johnny with john](Images/johnny_link.png)
 
