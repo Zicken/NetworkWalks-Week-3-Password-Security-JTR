@@ -25,4 +25,17 @@ Primary learning objectives:
   * I copied the generated hash and saved it to a text file then
   * I clicked on Open password file in JTR to add the saved password hash text file
     ![Open password hash](open_password_hash.png)
+  * Then I clicked on start a new attack and then the password was cracked successfully
+    ![Pdf 1 password](Cracked_password_pdf1.png)
+  The process was repeated for the other two passworded pdf files
+Steps undertaken for the Networkwalks pdf file password cracking tool
+* I opened the https://networkwalks.com/hash-calculator/ link in my web browser
+* Then clicked on the pdf tab to upload the passworded pdf file which then generated the password hash
+  ![pdf hash](W3-PM2-Networkwalks-pdf-hash.png)
+* I copied the hash generated then
+* opened https://networkwalks.com/password-cracker/
+* Then pasted the copied hash into the pdf hash text area
+* Then clicked on start cracking
+  ![Password cracked](W3-PM2-Networkwalks-pdf-Password-Cracker.png)
+  
 
